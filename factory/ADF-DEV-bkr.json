@@ -1,0 +1,9 @@
+{
+	"name": "ADF-DEV-bkr",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6c1b05e4-470e-440e-a1ea-c0b272a9589e",
+		"tenantId": "455418d7-59c1-43c2-83ed-322806a21b5c"
+	}
+}
