@@ -1,0 +1,9 @@
+{
+	"name": "datafac00",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11a6b456-1324-488f-acd1-390424c09d5c",
+		"tenantId": "f52f2183-9f67-4ad2-b656-6f754fe196cb"
+	}
+}
