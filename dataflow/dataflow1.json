@@ -10,14 +10,11 @@
 						"type": "DatasetReference"
 					},
 					"name": "source1"
-				},
-				{
-					"name": "source2"
 				}
 			],
 			"sinks": [],
 			"transformations": [],
-			"script": "source(allowSchemaDrift: true,\n\tvalidateSchema: false,\n\tignoreNoFilesFound: false) ~> source1\nsource(allowSchemaDrift: true,\n\tvalidateSchema: false) ~> source2"
+			"script": "source(allowSchemaDrift: true,\n\tvalidateSchema: false,\n\tignoreNoFilesFound: false) ~> source1"
 		}
 	}
 }
