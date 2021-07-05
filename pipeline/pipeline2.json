@@ -47,7 +47,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "output",
+						"referenceName": "outputdataset",
 						"type": "DatasetReference"
 					}
 				]
