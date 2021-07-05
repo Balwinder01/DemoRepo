@@ -1,0 +1,21 @@
+{
+	"name": "Excel1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlob01",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Excel",
+		"typeProperties": {
+			"sheetName": "GME",
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "GME.csv",
+				"folderPath": "input",
+				"container": "adfutorial"
+			}
+		},
+		"schema": []
+	}
+}
