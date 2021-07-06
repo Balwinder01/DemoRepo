@@ -41,7 +41,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "inputdataset01",
+						"referenceName": "inputdataset",
 						"type": "DatasetReference"
 					}
 				],
